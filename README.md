@@ -18,7 +18,9 @@ conda install --file requirements.txt
 
 # Dataset
 
-The dataset used for training the model is available here. Download the dataset and organize it into train, valid, and test sets within a directory.
+The dataset used for training the model is available [here](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html).
+
+Download the dataset and organize it into train, valid, and test sets within a directory.
 
 ![flowers](https://github.com/nikitaSisikin/FlowerClassificationPytorch/assets/74993680/cd1ec250-473c-403c-a853-633734b6236c)
 
