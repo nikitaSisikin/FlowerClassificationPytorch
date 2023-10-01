@@ -22,7 +22,7 @@ The dataset used for training the model is available [here](https://www.robots.o
 
 Download the dataset and organize it into train, valid, and test sets within a directory.
 
-Or, download the orginised dataset [here](https://file.io/rWfnLNDkEKUv).
+Or, download the orginized dataset [here](https://file.io/rWfnLNDkEKUv).
 
 
 
