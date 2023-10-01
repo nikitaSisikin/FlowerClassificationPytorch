@@ -25,6 +25,8 @@ Download the dataset and organize it into train, valid, and test sets within a d
 Or, download the orginised dataset [here](https://file.io/rWfnLNDkEKUv).
 
 
+
+
 ![flowers](https://github.com/nikitaSisikin/FlowerClassificationPytorch/assets/74993680/cd1ec250-473c-403c-a853-633734b6236c)
 
 
